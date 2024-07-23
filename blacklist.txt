@@ -1,0 +1,14 @@
+! 这是一个注释，以感叹号开头
+! 2024年7月23日 09:38:02
+! By Anyliew
+
+# 屏蔽360广告域名
+||*.hao.360.com^
+||hao.360.com^
+||tracking-site.example.com^
+||qurl.f.360.cn^
+||dd.browser.360.cn^
+||*.so.com^
+||*.360tres.com^
+||so.360tres.com^
+
