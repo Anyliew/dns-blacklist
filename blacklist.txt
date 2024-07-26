@@ -11,4 +11,6 @@
 ||*.so.com^
 ||*.360tres.com^
 ||so.360tres.com^
-
+||qhimg.com^
+||*.qhimg.com^
+||h5.mse.360.cn^
