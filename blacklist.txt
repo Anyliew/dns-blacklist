@@ -2,7 +2,8 @@
 ! 2024年7月23日 09:38:02
 ! By Anyliew
 
-# 屏蔽360广告域名
+
+# Qihoo 360
 ||*.hao.360.com^
 ||hao.360.com^
 ||tracking-site.example.com^
@@ -14,3 +15,24 @@
 ||qhimg.com^
 ||*.qhimg.com^
 ||h5.mse.360.cn^
+||*h5gamecdn.club^
+||h5gamecdn.club^
+||8827wan.com^
+||*.8827wan.com^
+||360kuai.com^
+||*.360kuai.com^
+||bizhi.360.cn^
+||*bizhi.360.cn^
+||v.browser.360.cn^
+||*.v.browser.360.cn^
+||*.v.browser.360.cn^
+
+#Xiaomi HyperOS
+||*.browser.miui.com^
+||browser.miui.com^
+||api.developer.xiaomi.com^
+||*.api.developer.xiaomi.com^
+||api.browser.miui.com^
+||sentry.d.xiaomi.net^
+||cdn.browser.miui.com^
+||alpha-global-search.browser.miui.com^
